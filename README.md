@@ -1,3 +1,5 @@
+# Changes
+
 # Mammoth .docx to HTML converter
 
 Mammoth is designed to convert .docx documents,
