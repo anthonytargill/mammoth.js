@@ -7,6 +7,8 @@ The purpose of this branch is to add the following features:
 
 Note. to push, we need to scrub the github user credentials and use the github user anthonytargill@gmail.com
 Go to Control Panel\User Accounts\Credential Manager and delete the git:https@//github.com entry
+Then go to github and sign in as anothony
+Then try to push and you'll be directed to the website
 
 # Mammoth .docx to HTML converter
 
