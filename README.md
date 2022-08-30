@@ -3,8 +3,10 @@
 The purpose of this branch is to add the following features:
 
 1. Tracking the index of paragraphs from read to JSON: DONE
-2. Creating an ability to export the JSON as opposed to the .docx (): TODO
-3. Extend so that it understands the numbering syntax on lists and headings: TODO
+2. Extend so that it understands the numbering syntax on lists and headings: DONE
+
+Note. to push, we need to scrub the github user credentials and use the github user anthonytargill@gmail.com
+Go to Control Panel\User Accounts\Credential Manager and delete the git:https@//github.com entry
 
 # Mammoth .docx to HTML converter
 
