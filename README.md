@@ -10,6 +10,8 @@ Go to Control Panel\User Accounts\Credential Manager and delete the git:https@//
 Then go to github and sign in as anothony
 Then try to push and you'll be directed to the website
 
+All changes have a comment above them of "// CHANGE HERE ..."
+
 # Mammoth .docx to HTML converter
 
 Mammoth is designed to convert .docx documents,
