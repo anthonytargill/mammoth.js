@@ -12,6 +12,10 @@ Then try to push and you'll be directed to the website
 
 All changes have a comment above them of "// CHANGE HERE ..."
 
+In order to pull in the change, you need to target the commit hash in package.json
+e.g. "mammoth": "github:anthonytargill/mammoth.js#ff3c38d969219c3139566a72037db75da93dbb44",
+You can get the hash by doing this: git show -s
+
 # Mammoth .docx to HTML converter
 
 Mammoth is designed to convert .docx documents,
